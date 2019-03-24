@@ -1,13 +1,17 @@
 {
   "name": "tildeclube-screenshotter",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Takes & saves a PNG screenshot for every tilde.club site (list as of March 2019)",
   "main": "tcss.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Jacob Ford",
+    "email": "j@cobford.com",
+    "url": "jacobford.com)"
+  },
   "license": "ISC",
   "dependencies": {
     "sanitize-filename": "^1.6.1",

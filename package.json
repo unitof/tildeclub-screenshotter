@@ -1,5 +1,5 @@
 {
-  "name": "tildeclube-screenshotter",
+  "name": "tildeclub-screenshotter",
   "version": "0.0.1",
   "description": "Takes & saves a PNG screenshot for every tilde.club site (list as of March 2019)",
   "main": "tcss.js",
